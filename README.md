@@ -47,10 +47,6 @@ This project is a simple chatbot that responds to user queries using natural lan
 
 - **main.py**: Contains the main logic for the chatbot, including text preprocessing, greeting responses, and generating responses based on user input.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Acknowledgements
 
 - [NLTK](https://www.nltk.org/) library for natural language processing.
